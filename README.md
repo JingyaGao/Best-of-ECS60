@@ -1,4 +1,4 @@
-# CPU Stimulation
+# CPU Simulation
 
 Coded with Raymond Tsang
 
